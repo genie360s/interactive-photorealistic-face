@@ -1,0 +1,15 @@
+{
+ "name": "female",
+ "shapes": [
+  "wink",
+  "blink"
+ ],
+ "maxYawDeg": 13.0,
+ "headRadius": 0.1384017025761763,
+ "aspect": 0.8002853067047075,
+ "hasAtlas": true,
+ "jawOpen": {
+  "wink": 0.104,
+  "blink": 0.647
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "name": "female",
+ "front": {
+  "kind": "frontal",
+  "image": "input/character_references/female_characters/female_character.png",
+  "aspect": 0.8002853067047075
+ },
+ "side": {
+  "kind": "similarity",
+  "image": "input/character_references/female_characters/female_character_side_view.png",
+  "size": [
+   1122,
+   1402
+  ],
+  "aspect": 0.8002853067047075,
+  "scale": 1.0150273527155522,
+  "R": [
+   [
+    0.54721392,
+    -0.10999679,
+    0.82973347
+   ],
+   [
+    0.02094651,
+    0.99281615,
+    0.11780212
+   ],
+   [
+    -0.83673064,
+    -0.04708294,
+    0.54558687
+   ]
+  ],
+  "t": [
+   0.21407979,
+   0.02720746,
+   0.00521189
+  ],
+  "yawDeg": 56.673290956548655,
+  "fitResidualMedian": 0.008895776562435884,
+  "fitResidualP90": 0.01666953294884288
+ },
+ "back": {
+  "kind": "ortho",
+  "image": "input/character_references/female_characters/female_character_back_view.png",
+  "size": [
+   1122,
+   1402
+  ],
+  "su": -1.278412435728018,
+  "ou": 0.5000639109454791,
+  "sv": -1.0482076637824473,
+  "ov": 0.4734610101409076,
+  "headTopRow": 16,
+  "neckRow": 864
+ }
+}

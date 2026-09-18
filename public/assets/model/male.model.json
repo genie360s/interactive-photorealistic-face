@@ -1,0 +1,15 @@
+{
+ "name": "male",
+ "shapes": [
+  "wink",
+  "blink"
+ ],
+ "maxYawDeg": 13.0,
+ "headRadius": 0.18425294504704318,
+ "aspect": 1.0942452043369475,
+ "hasAtlas": true,
+ "jawOpen": {
+  "wink": 0.046,
+  "blink": 0.324
+ }
+}

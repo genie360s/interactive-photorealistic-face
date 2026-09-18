@@ -1,0 +1,57 @@
+{
+ "name": "male",
+ "front": {
+  "kind": "frontal",
+  "image": "input/character_references/male_characters/male_character.png",
+  "aspect": 1.0942452043369475
+ },
+ "side": {
+  "kind": "similarity",
+  "image": "input/character_references/male_characters/male_character_side_view.png",
+  "size": [
+   1312,
+   1199
+  ],
+  "aspect": 1.0942452043369475,
+  "scale": 1.0437746344056924,
+  "R": [
+   [
+    0.76330662,
+    0.12699902,
+    -0.63343054
+   ],
+   [
+    -0.03424084,
+    0.98706226,
+    0.15663861
+   ],
+   [
+    0.64512833,
+    -0.0978741,
+    0.75777971
+   ]
+  ],
+  "t": [
+   -0.19204206,
+   0.00206175,
+   0.01752308
+  ],
+  "yawDeg": -39.892360893834116,
+  "fitResidualMedian": 0.008097334913264599,
+  "fitResidualP90": 0.015916842513213788
+ },
+ "back": {
+  "kind": "ortho",
+  "image": "input/character_references/male_characters/male_character_back_view.png",
+  "size": [
+   1312,
+   1199
+  ],
+  "su": -0.9801227962972593,
+  "ou": 0.4821729832468227,
+  "sv": -1.0035335689045937,
+  "ov": 0.489212152647819,
+  "headTopRow": 0,
+  "neckRow": 568
+ }
+}
